@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class GenerateInfoFiles {
 
-    // Arrays con datos de prueba para generar información aleatoria
+    // Arrays con datos de prueba para generar información aleatoria.
 
     private static final String[] NOMBRES = {"Carlos", "Ana", "Luis", "Maria", "Juan"};
 
