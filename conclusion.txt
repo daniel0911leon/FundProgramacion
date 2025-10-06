@@ -1,5 +1,14 @@
-A lo largo del proyecto se reforzaron conocimientos en programación con Java, sobre todo en el uso de JavaDoc para documentar, la implementación de estructuras de datos como Map y el manejo de archivos CSV. También se aprendió a generar datos de manera aleatoria pero coherente para hacer pruebas, además de organizar el código siguiendo buenas prácticas para que sea más claro y fácil de mantener.
+A lo largo del proyecto se reforzaron conocimientos en programación con Java, sobre todo en el uso de JavaDoc para documentar, 
+la implementación de estructuras de datos como Map y el manejo de archivos CSV. También se aprendió a generar datos de manera 
+aleatoria pero coherente para hacer pruebas, además de organizar el código siguiendo buenas prácticas para que sea más claro y 
+fácil de mantener.
 
-Lo aprendido tiene aplicación directa en el campo profesional, ya que el manejo y procesamiento de datos es una necesidad constante en muchas áreas. El hecho de poder generar reportes de manera automática y trabajar con archivos de datos es útil en empresas y proyectos de software. Además, la costumbre de documentar bien el código con un formato estándar es fundamental para trabajar en equipo y en proyectos más grandes donde se requiere claridad y orden.
+Lo aprendido tiene aplicación directa en el campo profesional, ya que el manejo y procesamiento de datos es una necesidad 
+constante en muchas áreas. El hecho de poder generar reportes de manera automática y trabajar con archivos de datos es útil 
+en empresas y proyectos de software. Además, la costumbre de documentar bien el código con un formato estándar es fundamental 
+para trabajar en equipo y en proyectos más grandes donde se requiere claridad y orden.
 
-Durante el desarrollo también surgieron algunas dificultades, como lograr que los datos generados fueran consistentes, manejar archivos con errores de formato y validar correctamente la información. Estos problemas ayudaron a mejorar en el manejo de excepciones, en la validación de entradas y en el diseño de un programa más sólido, lo cual representa una experiencia valiosa para futuros trabajos académicos y profesionales.
+Durante el desarrollo también surgieron algunas dificultades, como lograr que los datos generados fueran consistentes, manejar 
+archivos con errores de formato y validar correctamente la información. Estos problemas ayudaron a mejorar en el manejo de 
+excepciones, en la validación de entradas y en el diseño de un programa más sólido, lo cual representa una experiencia valiosa 
+para futuros trabajos académicos y profesionales.
