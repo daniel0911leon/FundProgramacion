@@ -1,7 +1,8 @@
-A lo largo del proyecto se reforzaron conocimientos en programación con Java, sobre todo en el uso de JavaDoc para documentar, 
-la implementación de estructuras de datos como Map y el manejo de archivos CSV. También se aprendió a generar datos de manera 
-aleatoria pero coherente para hacer pruebas, además de organizar el código siguiendo buenas prácticas para que sea más claro y 
-fácil de mantener.
+Aprendimos cómo utilizar operadores básicos para generar archivos de texto sin formato, generar números pseudoaleatorios, 
+combinar lenguajes de programación con el sistema de “caja negra” y “caja blanca,” e implementar procesos matemáticos a 
+una línea de código. También, a lo largo del proyecto se reforzaron conocimientos en programación con Java, sobre todo 
+en el uso de JavaDoc para documentar y la implementación de estructuras de datos como Map, además de organizar el código 
+siguiendo buenas prácticas para que sea más claro y fácil de mantener.
 
 Los conocimientos adquiridos en Fundamentos de Programación serán un logro valioso en cualquier camino profesional, 
 incluso en roles que no sean directamente técnicos. La programación nos enseñó una forma de pensar que trasciende 
