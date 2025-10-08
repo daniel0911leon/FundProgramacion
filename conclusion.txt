@@ -1,0 +1,24 @@
+A lo largo del proyecto se reforzaron conocimientos en programación con Java, sobre todo en el uso de JavaDoc para documentar, 
+la implementación de estructuras de datos como Map y el manejo de archivos CSV. También se aprendió a generar datos de manera 
+aleatoria pero coherente para hacer pruebas, además de organizar el código siguiendo buenas prácticas para que sea más claro y 
+fácil de mantener.
+
+Los conocimientos adquiridos en Fundamentos de Programación serán un logro valioso en cualquier camino profesional, 
+incluso en roles que no sean directamente técnicos. La programación nos enseñó una forma de pensar que trasciende 
+el código. La optimización de procesos, aprendimos a pensar de forma estructurada y lógica. Esta mentalidad es 
+fundamental para identificar patrones, cuellos de botella y proponer soluciones eficientes. Esto se aplica desde 
+la gestión de inventarios y la organización de datos en hojas de cálculo, hasta la automatización de tareas 
+administrativas repetitivas usando scripts sencillos. La resolución de problemas, descomponer un problema grande 
+en partes más pequeñas y manejables es importante. Nos ayudará a abordar proyectos complejos, analizar datos y tomar 
+decisiones informadas en cualquier campo, entendiendo la causalidad y la secuencia de eventos. La comunicación técnica 
+para entender la lógica básica detrás del software nos permite interactuar de manera más efectiva para saber qué es 
+posible y cómo articular mejor nuestras necesidades técnicas. 
+
+Las dificultades presentadas durante el desarrollo del proyecto como grupo, encontramos algunos retos como el inicio, 
+el mayor reto fue acostumbrarse a al lenguaje de programación, esto generó errores iniciales que requerían tiempo para 
+identificar y corregir. Pasar de entender la teoría en clase a la práctica y que funcionara correctamente para un reto 
+importante.  Al inicio parecía simple, pero implementar lo aprendido o visto en los encuentros presentaba situaciones 
+de dificultad. El trabajo en grupo cabe resaltar que somos un equipo variado donde algunos integrantes contaban con 
+conocimientos básicos de programación y por el otro lado apenas iniciaba el primer contacto con el tema, sin embargo, 
+contamos con muy buena comunicación y mucha colaboración de parte de cada uno de los integrantes, aparte de la buena guía 
+del tutor.
